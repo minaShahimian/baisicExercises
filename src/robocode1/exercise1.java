@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class week1 {
+public class exercise1 {
     public static void main(String[] args) {
 
         float x;
