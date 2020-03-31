@@ -15,6 +15,6 @@ public class ApplicationMoney {
     private static void calculatorTotal(List<List<Integer>> moneyPaid) {
         MoneyCalculator moneyCalculator = new MoneyCalculator();
         Integer total=moneyCalculator.calculateTotal(moneyPaid);
-        System.out.println("The total is: " + total);
+        System.out.println("The Money calculator  is: " + total);
     }
 }
